@@ -1,5 +1,4 @@
-- Hi, I’m Daryl
-- I studied Theoretical Physics in University.  
+ 
 - Most of what i've done so far is in Python, though i'm picking up Julia at the moment.
 I wish to channel my inner physicist through building and contributing to code bases of numerical models.
 

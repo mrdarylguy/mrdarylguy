@@ -1,5 +1,5 @@
  
-- Most of what i've done so far is in **Python**, though i'm picking up **Julia** and **C++** at the moment.
+- Most of what i've done so far is in **Python**, 
 I wish to build upon my Physics education through building and contributing to code bases of numerical models.
 
  

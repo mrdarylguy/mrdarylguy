@@ -1,5 +1,5 @@
  
-Coming from a physics background, I built numerical models in Python. I am currently building in Rust, Solane and React.
+Coming from a physics background, I built numerical models in Python. I am currently building in Rust, Solana and React.
 
  
 

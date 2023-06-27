@@ -1,6 +1,5 @@
  
-- Most of what i've done so far is in **Python**, 
-I wish to build upon my Physics education through building and contributing to code bases of numerical models.
+Coming from a physics background, I built numerical models in Python. I am currently building in Rust, Solane and React.
 
  
 

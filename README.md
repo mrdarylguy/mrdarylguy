@@ -1,5 +1,5 @@
  
-Coming from a physics background, I built numerical models in Python for quantitative finance application. I am currently building in Rust, Solana and React.
+Coming from a physics background, As side projects, i built numerical models in Python for quantitative finance application. Building up my knowledge in Rust, Solana. 
 
  
 
